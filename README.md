@@ -164,3 +164,6 @@ for nama, nim, Tugas, UTS, UAS, nilaiAkhir in zip(nama, nim, nilaiTugas, nilaiUT
     print("| {0:>2} | {1:<18} | {2:>8} | {3:>6} | {4:>5} | {5:>5} | {6:>7} |".format(no, nama, nim, Tugas, UTS, UAS, nilaiAkhir))
 print("+----+-----------------------+--------+--------+-------+-------+---------+")
 ```
+## Hasil program
+
+![2](Gambar2.png)
